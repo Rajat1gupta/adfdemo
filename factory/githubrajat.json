@@ -1,0 +1,9 @@
+{
+	"name": "githubrajat",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d10888f-ac9d-410a-a59b-84353c60c2cc",
+		"tenantId": "7a669173-001d-4d30-a0a0-a6593079f81f"
+	}
+}
